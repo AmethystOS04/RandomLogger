@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "randomlogger",
+	"version": "${version}",
+	"name": "RandomLogger",
+	"description": "WE B E Y B L A D E BABY",
+	"authors": [
+		"Amethyst"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/randomlogger/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"amethyst.logger.RandomLogger"
+		]
+	},
+	"mixins": [
+		"randomlogger.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
