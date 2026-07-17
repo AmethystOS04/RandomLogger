@@ -1,38 +1,9 @@
-# randomlogger
+# RandomLogger
 
-adds random startup messages because minecraft logs weren't confusing enough
+## Setup
 
-## features
+For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
 
-- random shitposts
-- 1% chance of a beyblade incident
-- emergency spinblade deployment
-- advanced cheese detection
-- advanced cheese loss
-- the cheese has escaped
-- nobody knows how
-- nobody knows why
-- please do not approach the cheese
-- absolutely no useful functionality
+## License
 
-## faq
-
-### what does this mod do
-
-yes
-
-### why
-
-the cheese made me do it
-
-### is the cheese dangerous
-
-we don't know
-
-### where is the cheese
-
-we don't know that either
-
-### should i install this
-
-probably
+This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
